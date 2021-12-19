@@ -1,0 +1,6 @@
+- 🖥️ Programador Full Stack
+- ⌨️ Desarrollo de Software
+- 📱 Aplicaciones Web y Móbiles
+- ✨ Angular, React y Vue.js
+- 💎 Node JS, Express, RestAPI
+- 🐍 Phyton 3, MongoDb, MySQL
